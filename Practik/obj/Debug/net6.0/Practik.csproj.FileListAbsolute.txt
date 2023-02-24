@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GB\C#\Practik\bin\Debug\net6.0\Practik.exe
+C:\Users\Lenovo\Desktop\GB\C#\Practik\bin\Debug\net6.0\Practik.deps.json
+C:\Users\Lenovo\Desktop\GB\C#\Practik\bin\Debug\net6.0\Practik.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GB\C#\Practik\bin\Debug\net6.0\Practik.dll
+C:\Users\Lenovo\Desktop\GB\C#\Practik\bin\Debug\net6.0\Practik.pdb
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\Practik.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\Practik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\Practik.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\Practik.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\Practik.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\Practik.dll
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\refint\Practik.dll
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\Practik.pdb
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\Practik.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GB\C#\Practik\obj\Debug\net6.0\ref\Practik.dll
